@@ -3,6 +3,7 @@
 * [序言](chapter00/preface00.md)
 - [文集](chapter01/README.md)
    * [曾国藩：有绝顶聪明而肯作笨功夫的人才有大成就](chapter01/note25.md)
+   * [曾国藩：天下之至拙，能胜天下之至巧](chapter01/note28.md)
    * [丰子恺：为青年说弘一法师](chapter01/note14.md)
    * [坚毅：笨方法的第一步](chapter01/note13.md)
    * [陈虎平：下笨功夫，打持久战](chapter01/note07.md)
