@@ -16,7 +16,7 @@
    * [威尔逊：给青年科学家的 20 封信](chapter01/note05.md)
    * [寺主人：这也算是笨方法学习的成果](chapter01/note06.md)
    * [陈素封：如何让老师毫无保留教你？](chapter01/note08.md)
-   * [河森堡：只要人的自我修为到了，做其他的事情也是事半功倍的](chapter01/note09.md)
+   * [待增补](chapter01/note09.md)
    * [陈虎平：精致与计较，容易兜圈子](chapter01/note10.md)
    * [路意Louis：我们应当怎样学习？](chapter01/note11.md)
    * [笨方法歌单：](chapter01/note12.md)
