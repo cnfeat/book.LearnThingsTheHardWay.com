@@ -36,4 +36,5 @@
    * [斯科特·亚当斯：写作的目标与系统](chapter01/note24.md)
    * [《重新定义公司》：有激情的人不把“激情”挂嘴边](chapter01/note27.md)
    * [韦海生：请留心写作带来的虚荣](chapter01/note34.md)
+   * [王小波：我为什么写作](chapter01/note35.md)
 * [后记](end/postscript.md)
