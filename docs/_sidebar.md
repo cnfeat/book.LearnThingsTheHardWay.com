@@ -38,4 +38,6 @@
    * [韦海生：请留心写作带来的虚荣](chapter01/note34.md)
    * [王小波：我为什么写作](chapter01/note35.md)
    * [刀尔登：徐霞客是个怎样的人？](chapter01/note36.md)
+   * [川大中文系教授王红：恐怕很难有可供你借鉴的方法，因为我用的好像也是笨方法](chapter01/note38.md)
+   * [讨论：我们为什么需要笨方法？](chapter01/note37.md)
 * [后记](end/postscript.md)
