@@ -40,5 +40,7 @@
    * [刀尔登：徐霞客是个怎样的人？](chapter01/note36.md)
    * [川大中文系教授王红：恐怕很难有可供你借鉴的方法，因为我用的好像也是笨方法](chapter01/note38.md)
    * [梁启超：最好的读书方法是笨方法](chapter01/note39.md)
+   * [蒲慕明：写给实验室学生的信](chapter01/note40.md)
+   * [王文兴：我的写作是很慢的写作](chapter01/note41.md)
    * [讨论：我们为什么需要笨方法？](chapter01/note37.md)
 * [后记](end/postscript.md)
