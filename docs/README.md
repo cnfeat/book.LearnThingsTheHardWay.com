@@ -18,7 +18,7 @@
 文集链接：http://book.LearnThingsTheHardWay.com
 
 
-   * [曾国藩：有绝顶聪明而肯作笨功夫的人才有大成就](chapter01/note25.md)
+    * [曾国藩：有绝顶聪明而肯作笨功夫的人才有大成就](chapter01/note25.md)
    * [曾国藩：天下之至拙，能胜天下之至巧](chapter01/note28.md)
    * [曾国藩：十余年来，但知结硬寨、打呆仗](chapter01/note30.md)
    * [丰子恺：为青年说弘一法师](chapter01/note14.md)
@@ -54,8 +54,11 @@
    * [韦海生：请留心写作带来的虚荣](chapter01/note34.md)
    * [王小波：我为什么写作](chapter01/note35.md)
    * [刀尔登：徐霞客是个怎样的人？](chapter01/note36.md)
-
-
+   * [川大中文系教授王红：恐怕很难有可供你借鉴的方法，因为我用的好像也是笨方法](chapter01/note38.md)
+   * [梁启超：最好的读书方法是笨方法](chapter01/note39.md)
+   * [蒲慕明：写给实验室学生的信](chapter01/note40.md)
+   * [王文兴：我的写作是很慢的写作](chapter01/note41.md)
+   * [讨论：我们为什么需要笨方法？](chapter01/note37.md)
 
 
 ## 《笨方法学写作》相关链接
