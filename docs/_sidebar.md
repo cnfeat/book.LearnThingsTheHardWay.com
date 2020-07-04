@@ -42,5 +42,6 @@
    * [梁启超：最好的读书方法是笨方法](chapter01/note39.md)
    * [蒲慕明：写给实验室学生的信](chapter01/note40.md)
    * [王文兴：我的写作是很慢的写作](chapter01/note41.md)
+   * [吴军：上帝喜欢笨人](chapter01/note42.md)
    * [讨论：我们为什么需要笨方法？](chapter01/note99.md)
 * [后记](end/postscript.md)
